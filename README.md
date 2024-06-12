@@ -17,6 +17,10 @@
 ```
 ---
 ```
+if文
+if xxxxxx==0 then
+else
+end
 ```
 ---
 ```
@@ -24,10 +28,4 @@
 local A, B = io.read("n", "n")
 ```
 ---
-```
-if syle 注意
-if xxxxxx then
-else
-end
-```
----
+
