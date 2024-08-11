@@ -11,6 +11,9 @@
 ```
 ---
 ```
+d = io.read("*l")
+mapp = {A = 'T', C = 'G', G = 'C', T = 'A'}
+print(mapp[d])
 ```
 ---
 ```
